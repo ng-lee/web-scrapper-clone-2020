@@ -2,7 +2,7 @@
 
 Cloning Web Scrapper using Python 
 
-Srap Jobs from Stack Overflow and Indeed
+Srap Jobs for Python from StackOverflow and Indeed
 
 by Nomad Coders
 
